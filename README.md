@@ -27,11 +27,11 @@ I'm a passionate **Software Engineer**--**Full Stack Web Developer** and a **Com
 
 ### 📫 Let's Connect
 
-- 🌐 [Visit My Website](https://ahmnanzil.mooo.com)
-- 💼 [Fiverr Profile – Coding Assistance & Web Dev](https://www.fiverr.com/s/P2WXw3o)
-- 📧 Email: ahmnanzilofficial@gmail.com
-- 💻 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/ahmnanzil)
-
+- 🌐 [Visit My Website](https://ahmnanzil.mooo.com)  
+- 💼 [Fiverr Profile – Coding Assistance & Web Dev](https://www.fiverr.com/s/P2WXw3o)  
+- 🧑‍💻 [Upwork Profile](https://www.upwork.com/freelancers/~0188c3e0f408323508?mp_source=share)  
+- 📧 Email: ahmnanzilofficial@gmail.com  
+- 💻 [LinkedIn Profile](https://www.linkedin.com/in/ahmnanzil) 
 ---
 
 ### ⚡ Fun Fact
