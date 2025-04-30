@@ -15,12 +15,28 @@ I'm a passionate **Software Engineer**--**Full Stack Web Developer** and a **Com
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmnanzil&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Ahm Nanzil's GitHub Stats" />
+</p>
+
+---
+
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnanzil&layout=compact&theme=radical&hide_title=false" alt="Top Languages" />
+</p>
+
+---
+
 ### 💼 What I Do
 
-- 🔧 Build custom **Laravel & Django** applications
-- 🧠 Solve algorithm & coding problems in **C, Python, Java**
-- 📱 Create cross-platform **mobile apps using React Native**
-- 📊 Integrate **Machine Learning models** with web platforms
+- 🔧 Build custom **Laravel & Django** applications  
+- 🧠 Solve algorithm & coding problems in **C, Python, Java**  
+- 📱 Create cross-platform **mobile apps using React Native**  
+- 📊 Integrate **Machine Learning models** with web platforms  
 - 🌍 Host and manage websites using **GoDaddy**, **Hostinger**, and **AWS Free Tier**
 
 ---
@@ -31,13 +47,14 @@ I'm a passionate **Software Engineer**--**Full Stack Web Developer** and a **Com
 - 💼 [Fiverr Profile – Coding Assistance & Web Dev](https://www.fiverr.com/s/P2WXw3o)  
 - 🧑‍💻 [Upwork Profile](https://www.upwork.com/freelancers/~0188c3e0f408323508?mp_source=share)  
 - 📧 Email: ahmnanzilofficial@gmail.com  
-- 💻 [LinkedIn Profile](https://www.linkedin.com/in/ahmnanzil) 
+- 💻 [LinkedIn Profile](https://www.linkedin.com/in/ahmnanzil)  
+
 ---
 
 ### ⚡ Fun Fact
+
 I love turning complex problems into clean, working code — and I enjoy helping others do the same. Let’s build something awesome together!
 
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
