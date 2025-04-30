@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Ahm Nanzil
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F700FF&vCenter=true&width=435&lines=Ahm+Nanzil+%E2%9C%8C;Full+Stack+Web+Developer;Laravel+%7C+Django+%7C+React+Native;Let's+Build+Awesome+Things+Together" alt="Typing SVG" />
 
 I'm a passionate **Software Engineer**--**Full Stack Web Developer** and a **Computer Science & Engineering graduate**, with over **5 years of coding experience** and **2+ years of professional experience** in developing robust, scalable, and performance-driven web applications.
 
