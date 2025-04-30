@@ -34,18 +34,11 @@
 - 🧑‍💻 [Upwork Profile](https://www.upwork.com/freelancers/~0188c3e0f408323508?mp_source=share)  
 - 📧 Email: ahmnanzilofficial@gmail.com  
 - 💻 [LinkedIn Profile](https://www.linkedin.com/in/ahmnanzil) 
----
-
-### ⚡ Fun Fact
-I love turning complex problems into clean, working code — and I enjoy helping others do the same. Let’s build something awesome together!
 
 ---
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
---
 ### 📊 GitHub Overview
 <table border="0">
+   <img src="https://github-readme-stats.vercel.app/api?username=ahm-nanzil&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Ahm Nanzil's GitHub Stats" />
   <tr>
     <td width="50%">
       <img src="https://streak-stats.demolab.com/?user=ahm-nanzil&theme=radical&hide_border=false" alt="GitHub Streak" />
@@ -55,5 +48,11 @@ I love turning complex problems into clean, working code — and I enjoy helping
     </td>
   </tr>
 </table>
- <img src="https://github-readme-stats.vercel.app/api?username=ahm-nanzil&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Ahm Nanzil's GitHub Stats" />
+
+### ⚡ Fun Fact
+I love turning complex problems into clean, working code — and I enjoy helping others do the same. Let’s build something awesome together!
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
