@@ -36,6 +36,13 @@
 - 💻 [LinkedIn Profile](https://www.linkedin.com/in/ahmnanzil) 
 
 ---
+### ⚡ Fun Fact
+I love turning complex problems into clean, working code — and I enjoy helping others do the same. Let’s build something awesome together!
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
 ### 📊 GitHub Overview
 <table border="0">
    <img src="https://github-readme-stats.vercel.app/api?username=ahm-nanzil&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Ahm Nanzil's GitHub Stats" />
@@ -49,10 +56,4 @@
   </tr>
 </table>
 
-### ⚡ Fun Fact
-I love turning complex problems into clean, working code — and I enjoy helping others do the same. Let’s build something awesome together!
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
