@@ -44,17 +44,16 @@ I love turning complex problems into clean, working code — and I enjoy helping
 
 
 ### 📊 GitHub Overview
-
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmnanzil&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Ahm Nanzil's GitHub Stats" />
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=ahm-nanzil&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Ahm Nanzil's GitHub Stats" /> -->
+      <img src="https://streak-stats.demolab.com?user=ahm-nanzil&theme=radical&hide_border=false" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmnanzil&layout=compact&theme=radical&hide_title=false" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-nanzil&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
----
 
