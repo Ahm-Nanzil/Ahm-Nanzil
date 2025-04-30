@@ -1,8 +1,10 @@
-## Hi there 👋 I'm Ahm Nanzil
+## Hi there 👋 
 
-I'm a passionate **Software Engineer**--**Full Stack Web Developer** and a **Computer Science & Engineering graduate**, with over **5 years of coding experience** and **2+ years of professional experience** in developing robust, scalable, and performance-driven web applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F700FF&vCenter=true&width=435&lines=I'm+Ahm+Nanzil;Software+Engineer;Full+Stack+Developer;Coding+%7C+Deploying+%7C+Building;Let's+Do+Something+Amazing!" alt="Typing SVG" />
+</p>
 
----
+
 
 ### 🚀 About Me
 
@@ -40,3 +42,18 @@ I love turning complex problems into clean, working code — and I enjoy helping
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+--
+### 📊 GitHub Overview
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com/?user=ahm-nanzil&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-nanzil&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+ <img src="https://github-readme-stats.vercel.app/api?username=ahm-nanzil&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Ahm Nanzil's GitHub Stats" />
+
